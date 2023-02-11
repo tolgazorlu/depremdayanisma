@@ -119,7 +119,7 @@ export default function Info() {
             <a
               key={item.name}
               href={item.href}
-              className="bg-indigo-500 p-8 rounded-2xl flex justify-start items-center hover:bg-ahbap"
+              className="bg-cyan-600 p-8 rounded-2xl flex justify-start items-center hover:bg-ahbap"
             >
               {item.name}
             </a>
@@ -135,7 +135,7 @@ export default function Info() {
             <a
               key={item.name}
               href={item.href}
-              className="bg-indigo-500 p-2 rounded-3xl flex justify-start items-center hover:bg-ahbap"
+              className="bg-blue-900 p-2 rounded-3xl flex justify-start items-center hover:bg-ahbap"
             >
             <img src={item.img} className="h-18 rounded-full mr-4"/>
               {item.name}

@@ -40,7 +40,7 @@ export default function Navbar() {
             <a
               key={item.name}
               href={item.href}
-              className="text-sm font-semibold leading-6 text-gray-300 hover:text-indigo-300"
+              className="text-sm font-semibold leading-6 text-gray-300 hover:text-cyan-300"
             >
               {item.name}
             </a>
@@ -49,7 +49,7 @@ export default function Navbar() {
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <a
             href="#"
-            className="text-sm font-semibold leading-6 text-indigo-400"
+            className="text-sm font-semibold leading-6 text-cyan-500"
           >
             Yayın Şeması <span aria-hidden="true">&rarr;</span>
           </a>
@@ -62,7 +62,7 @@ export default function Navbar() {
         >
           <div className="flex items-center justify-between">
             <a href="#" className="-m-1.5 p-1.5">
-              <span className="sr-only">Your Company</span>
+              <span className="sr-only">depremdayanisma</span>
               <img
                 className="h-8"
                 src="https://cdn-icons-png.flaticon.com/512/8611/8611400.png"
@@ -85,7 +85,7 @@ export default function Navbar() {
                   <a
                     key={item.name}
                     href={item.href}
-                    className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-300 hover:text-indigo-500"
+                    className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-300 hover:text-cyan-500"
                   >
                     {item.name}
                   </a>
@@ -94,7 +94,7 @@ export default function Navbar() {
               <div className="py-6">
                 <a
                   href="#"
-                  className="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-gray-300 hover:bg-gray-400/10"
+                  className="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-cyan-500 hover:bg-gray-400/10"
                 >
                   Yayın Şeması
                 </a>

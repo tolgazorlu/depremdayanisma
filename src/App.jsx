@@ -6,7 +6,7 @@ import Info from './components/Info'
 function App() {
 
   return (
-    <div className='isolate bg-gray-800'>
+    <div className='isolate bg-gray-900'>
       <Navbar />
       <Hero />
       <Info />
