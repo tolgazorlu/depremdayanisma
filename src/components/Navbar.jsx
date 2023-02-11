@@ -48,10 +48,10 @@ export default function Navbar() {
         </div>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <a
-            href="#"
+            href="https://i.ibb.co/nsJQXnv/yay-n-ak-s.png"
             className="text-sm font-semibold leading-6 text-cyan-500"
           >
-            Yayın Şeması <span aria-hidden="true">&rarr;</span>
+            Yayın Akışı <span aria-hidden="true">&rarr;</span>
           </a>
         </div>
       </nav>
@@ -93,10 +93,10 @@ export default function Navbar() {
               </div>
               <div className="py-6">
                 <a
-                  href="#"
+                  href="https://i.ibb.co/nsJQXnv/yay-n-ak-s.png"
                   className="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-cyan-500 hover:bg-gray-400/10"
                 >
-                  Yayın Şeması
+                  Yayın Akışı
                 </a>
               </div>
             </div>
