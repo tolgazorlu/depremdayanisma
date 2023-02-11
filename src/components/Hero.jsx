@@ -18,10 +18,10 @@ export default function Example() {
                 Deprem Dayanışma Ortak Yayını
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-300">
-                Türkiye'de gerçekleşen 7.7 ve 7.6 büyüklüğündeki depremler nedeniyle toplanan bilim ve teknoloji ağırlıklı youtube kanalları, depremzedelere destek veriyor.
+                Türkiye'de gerçekleşen 7.7 ve 7.6 büyüklüğündeki depremler nedeniyle toplanan bilim ve teknoloji ağırlıklı kanallar, depremzedelere destek veriyor.
               </p>
-              <h2 className="mt-4 font-bold tracking-tight text-cyan-500 sm:text-3xl">9 Şubat 2023<span className="text-light"> tarihinden itibaren</span></h2>
-              <h2 className="mt-4 font-bold tracking-tight text-light sm:text-3xl">Toplanan Bağış: <span className="text-ahbap">$466.085,00</span></h2>
+              <h2 className="mt-4 font-bold tracking-tight text-cyan-500 sm:text-3xl">8 Şubat 2023<span className="text-light"> tarihinden itibaren</span></h2>
+              <h2 className="mt-4 font-bold tracking-tight text-light sm:text-3xl">Toplanan Bağış: <span className="text-ahbap">$470.635,00</span></h2>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a
                   href="https://ahbap.org/bagisci-ol"
